@@ -1,4 +1,5 @@
-https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-6540746-5540750.mp4
+![Uploading image.png…]()
+
 <h1 align="center">Hi 👋, I'm Masa Saleh</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
